@@ -19,7 +19,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(/images/bg.jpg);
+    background: url(images/bg.jpg);
     background-size: cover;
 }
 .banner .content{
@@ -209,7 +209,7 @@ header.sticky .navigation li a{
 }
 /* Testimonials */
 .testimonials{
-    background: url(/images/bg2.jpg);
+    background: url(images/bg2.jpg);
     background-size: cover;
 }
 .white .titleText,
@@ -266,7 +266,7 @@ header.sticky .navigation li a{
 }
 /* Contact Section */
 .contact{
-    background: url(/images/bg3.jpg);
+    background: url(images/bg3.jpg);
     background-size: contain;
 }
 .contactForm{
