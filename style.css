@@ -427,4 +427,10 @@ header.sticky .navigation li a{
         font-size: 2.2em;
         color: #fff;
     }
+    header, header.sticky {
+        padding: 10px 20px;
+    }
+    header{
+        justify-content: space-around;
+    }
 }
