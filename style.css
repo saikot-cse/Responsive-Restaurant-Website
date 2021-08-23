@@ -19,7 +19,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(bg.jpg);
+    background: url(images/bg.jpg);
     background-size: cover;
 }
 .banner .content{
@@ -209,7 +209,7 @@ header.sticky .navigation li a{
 }
 /* Testimonials */
 .testimonials{
-    background: url(bg2.jpg);
+    background: url(images/bg2.jpg);
     background-size: cover;
 }
 .white .titleText,
@@ -266,7 +266,7 @@ header.sticky .navigation li a{
 }
 /* Contact Section */
 .contact{
-    background: url(bg3.jpg);
+    background: url(images/bg3.jpg);
     background-size: contain;
 }
 .contactForm{
@@ -359,14 +359,14 @@ header.sticky .navigation li a{
         position: relative;
         width: 40px;
         height: 40px;
-        background: url(menu.png);
+        background: url(images/menu.png);
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
         cursor: pointer;
     }
     .menuToggle.active{
-        background: url(close.png);
+        background: url(images/close.png);
         background-size: 25px;
         background-repeat: no-repeat;
         background-position: center;
